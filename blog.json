@@ -1,6 +1,16 @@
 [{
+		"blog_": "How to maximize on your resort stay",
+		"blog_category": "travel tips",
+		"blog_image": "https://www.ticketsasa.com/images/images.php?src=components/com_enmasse/upload/images/thepool_sunset_sirville_elementaita_lodge_season_special_cba.jpg",
+		"blog_title": "Find a great selection of local and International beers and wines at the Main Bar. For breathtaking panoramic view of the Lake, the Lake view bar is the perfect spot for guests to sip their view favourite drink as they watch the sunset.",
+		"blog_author": "Meshack",
+		"blog_date": "May 23 2022",
+		"blog_comments": "16",
+		"blog_tag": ["budget", "travel guide", "travel tips", "activities"]
+	},
+	{
 		"blog_": "How to enjoy your vacation on  budget",
-		"blog_category": "",
+		"blog_category": "budget",
 		"blog_image": "https://www.ticketsasa.com/images/images.php?src=components/com_enmasse/upload/images/thepool_sunset_sirville_elementaita_lodge_season_special_cba.jpg",
 		"blog_title": "Find a great selection of local and International beers and wines at the Main Bar. For breathtaking panoramic view of the Lake, the Lake view bar is the perfect spot for guests to sip their view favourite drink as they watch the sunset.",
 		"blog_author": "Meshack",
@@ -9,18 +19,8 @@
 		"blog_tag": ["bueget", "travel guide", "travel tips", "activities"]
 	},
 	{
-		"blog_": "How to enjoy your vacation on  budget",
-		"blog_category": "",
-		"blog_image": "https://www.ticketsasa.com/images/images.php?src=components/com_enmasse/upload/images/thepool_sunset_sirville_elementaita_lodge_season_special_cba.jpg",
-		"blog_title": "Find a great selection of local and International beers and wines at the Main Bar. For breathtaking panoramic view of the Lake, the Lake view bar is the perfect spot for guests to sip their view favourite drink as they watch the sunset.",
-		"blog_author": "Meshack",
-		"blog_date": "May 23 2022",
-		"blog_comments": "16",
-		"blog_tag": ["bueget", "travel guide", "travel tips", "activities"]
-	},
-	{
-		"blog_": "How to enjoy your vacation on  budget",
-		"blog_category": "",
+		"blog_": "Best activities to do on holiday",
+		"blog_category": "activities",
 		"blog_image": "https://www.ticketsasa.com/images/images.php?src=components/com_enmasse/upload/images/thepool_sunset_sirville_elementaita_lodge_season_special_cba.jpg",
 		"blog_title": "Find a great selection of local and International beers and wines at the Main Bar. For breathtaking panoramic view of the Lake, the Lake view bar is the perfect spot for guests to sip their view favourite drink as they watch the sunset.",
 		"blog_author": "Meshack",
