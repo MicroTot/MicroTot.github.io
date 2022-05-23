@@ -1,0 +1,6 @@
+[
+  {
+    "image1": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16468272652_executive1_(1).jpg",
+    "image2": "https://demo.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16231573251_ogs0764-hdr-scaled.jpg"
+  }
+]

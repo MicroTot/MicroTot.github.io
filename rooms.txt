@@ -1,0 +1,37 @@
+[
+  {
+    "room": "Budget Rooms",
+    "price": 1900,
+    "or_price": 2000,
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15059159231_classic.png",
+    "link": "https://staging.verviant.com/kahama/accomodation.html#/room-details?rid=299&pid=MTQ%3D"
+  },
+  {
+    "room": "Deluxe Rooms",
+    "price": 3400,
+    "or_price": 3500,
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/14100026671_executive-room.jpg",
+    "link": "https://staging.verviant.com/kahama/accomodation.html#/room-details?rid=301&pid=MTQ%3D"
+  },
+  {
+    "room": "Superior Room",
+    "price": 2900,
+    "or_price": 3000,
+    "image": "https://www.reserveport.com/images/images.php?src=components/com_goreserva_pregistrations/pimages/roomtypeimgs/14100026671_executive-room.jpg&w=300&h=324&q=100",
+    "link": "https://staging.verviant.com/kahama/accomodation.html#/room-details?rid=302&pid=MTQ%3D"
+  },
+  {
+    "room": "Twin Room",
+    "price": 3900,
+    "or_price": 4000,
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/14100027441_twin-room.jpg",
+    "link": "hhttps://staging.verviant.com/kahama/accomodation.html#/room-details?rid=303&pid=MTQ%3D"
+  },
+  {
+    "room": "Triple Room",
+    "price": 4400,
+    "or_price": 4500,
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/14100027821_triple.jpg",
+    "link": "https://staging.verviant.com/kahama/accomodation.html#/room-details?rid=304&pid=MTQ%3D"
+  }
+]

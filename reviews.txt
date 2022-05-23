@@ -1,0 +1,20 @@
+[
+  {
+    "image": "",
+    "review": "Beautiful resort. Amazing food.Family friendly resort. Friendly and professional staff. State of the art facilities and accommodation. Edith from booking was always courteous when we called to reserve. ",
+    "reviewer": "Mercy",
+    "occupation": "Nurse"
+  },
+  {
+    "image": "",
+    "review": "The best place to be..with serene environment, friendly  stuff best amenities..very accommodative for all ..spa is  top notch..I highly recommend",
+    "reviewer": "David",
+    "occupation": "Tourist"
+  },
+  {
+    "image": "",
+    "review": "This Resort was one of the best my family and I have been too. It's so open and green. And have very spacious rooms. The best part of our experience was the outdoor shower which made us not wanna leave. We hope to come back soon.",
+    "reviewer": "Shah",
+    "occupation": "HR"
+  }
+]

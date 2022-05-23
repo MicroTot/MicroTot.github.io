@@ -1,0 +1,26 @@
+[
+  {
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16443162511_5-royal-suite-2-majlis-hotel-lamu_gallery__5f1ff231179e9.jpg",
+    "room_type": "rooms"
+  },
+  {
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16443162512_1-detail-royal-suite_gallery__5f1ff227f130a.jpg",
+    "room_type": "activities"
+  },
+  {
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16443162514_3-living-room-royal-suite-majlis-hotel-lamu_gallery__5f1ff22d42ce3.jpg",
+    "room_type": "events"
+  },
+  {
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16443162515_4-royal-suite_gallery__5f1ff2305928b.jpg",
+    "room_type": "interior"
+  },
+  {
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16518215601_dsc05920-hdr.jpg",
+    "room_type": "restaurant"
+  },
+  {
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16518215603_dsc05878-hdr.jpg",
+    "room_type": "activities"
+  }
+]

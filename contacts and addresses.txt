@@ -1,0 +1,13 @@
+[
+  {
+    "business_name": "Pesapal reserveport",
+    "address": "Kabarnet Lane, Next to St. Nicholas Senior School, Nairobi",
+    "number": "+254 (0) 709 219 0000",
+    "email": "info@reserveport.com",
+    "facebook": "https://www.facebook.com/sharer/sharer.php?u=https://www.reserveport.com/",
+    "twitter": "https://twitter.com/home?status=https://www.reserveport.com/",
+    "youtube": "",
+    "pinterest": "https://pinterest.com/pin/create/button/?url=https://www.reserveport.com/&media=&description=",
+    "about": "reserveport is a world-class booking engine that does this and that..."
+  }
+]

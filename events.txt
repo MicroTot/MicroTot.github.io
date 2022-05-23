@@ -1,0 +1,58 @@
+[
+  {
+    "event_image": "https://conventinternationalhotel.co.ke/wp-content/uploads/2019/05/cedar1.jpg",
+    "date": "June 4 2022",
+    "event_title": "Event 1 ",
+    "event_description": "Celebrating the national day of something something",
+    "event_description_main": "quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam. quis nostrum exercit ationem ullam corporis suscipit laboriosam, nisi ut aliquid.",
+    "event_list": [
+      "Free water for all",
+      "Free parking",
+      "Free drinks for kids under the age of 13",
+      "Reliable security and CCTVs at every corner",
+      "medical and fire team will be deployed during the event"
+    ]
+  },
+  {
+    "event_image": "https://conventinternationalhotel.co.ke/wp-content/uploads/2019/05/david_sheldrick.jpg",
+    "date": "September 17 2022",
+    "event_title": "Event 2",
+    "event_description": "On Easter, we will celebrate something something by feeding the elephants ",
+    "event_description_main": "The Nairobi National Park is a few minutes away from the city center. Therefore, ideal for anyone traveling to Nairobi for a short stay. It is home to a good number of wild animals from lions to buffaloes, giraffes, elephants, and zebras. More surprising, is that many locals reside only a few kilometers from the highly secured park.",
+    "event_list": [
+      "Free water for all",
+      "Free parking",
+      "Free drinks for kids under the age of 13",
+      "Reliable security and CCTVs at every corner",
+      "medical and fire team will be deployed during the event"
+    ]
+  },
+  {
+    "event_image": "https://conventinternationalhotel.co.ke/wp-content/uploads/2019/05/Bomas-of-Kenya.jpg",
+    "date": "November 12 2022",
+    "event_title": "Event 3",
+    "event_description": "As the year turns warm, we are here to celebrate the birth of Christ with the local Masai group...",
+    "event_description_main": "Bomas of Kenya is a cultural tour of Kenya’s major ethnic groups. Here, you will find exciting replicates of traditional villages and items. Each item provides compelling insight into a tribe’s societal structure, crafts, music, dancing and much more. There is a broad representation of the several tribes in Kenya such as but not limited to the Mijikenda, Luo, Taita, Embu, Maasai, Kikuyu, Kamba, Kalenjin, Luhya, Kisii, and Kuria.",
+    "event_list": [
+      "Free water for all",
+      "Free parking",
+      "Free drinks for kids under the age of 13",
+      "Reliable security and CCTVs at every corner",
+      "medical and fire team will be deployed during the event"
+    ]
+  },
+  {
+    "event_image": "",
+    "date": "May 29 2022",
+    "event_title": "Event 4",
+    "event_description": "One of our finest DJs in Kenya will be with us to celebrate the independence of our country. Join us live at our show ground with ba bla bla...",
+    "event_description_main": "The organization works in partnership with the Kenya Wildlife Service to give hope to orphaned elephants fortunate enough to be found alive. It took Daphne Sheldrick nearly three decades of trial and error to perfect the milk formula and complex husbandry necessary to rear an orphaned infant African elephant. Today, with support from many caring people worldwide, the David Sheldrick Wildlife Trust is proud to have saved over 150 orphaned infant calves.",
+    "event_list": [
+      "Free water for all",
+      "Free parking",
+      "Free drinks for kids under the age of 13",
+      "Reliable security and CCTVs at every corner",
+      "medical and fire team will be deployed during the event"
+    ]
+  }
+]

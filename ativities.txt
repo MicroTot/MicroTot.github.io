@@ -1,0 +1,17 @@
+[
+  {
+    "activity_image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16487321841_dsc06008.jpg",
+    "activity_title": "Bike Riding",
+    "activity_desc": "We have 13 mountain bikes and their safety gears for riding and something"
+  },
+  {
+    "activity_image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16521820731_thumbnail_sea-breeze-room-03-1600x1067.jpg",
+    "activity_title": "Hill climbing",
+    "activity_desc": "Just 3 kilometres away, there's the Pesa hills. Standing at 300 metres, its a fun challenge to climb the hill to its peak and stuff"
+  },
+  {
+    "activity_image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16521822971_thumbnail_beach-cottage-04-1-1600x1068.jpg",
+    "activity_title": "Fishing",
+    "activity_desc": "Come and catch your next supper on the Pesa river that's just 10 minutes away..."
+  }
+]
