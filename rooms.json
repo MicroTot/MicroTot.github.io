@@ -1,37 +1,32 @@
 [
   {
-    "room": "Budget Rooms",
-    "price": 1900,
-    "or_price": 2000,
-    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15059159231_classic.png",
-    "link": "https://staging.verviant.com/kahama/accomodation.html#/room-details?rid=299&pid=MTQ%3D"
+    "room": "Superior twin rooms",
+    "price": 10000,
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15859967702_weston-hotel-kenya-48.jpg",
+    "link": ""
   },
   {
-    "room": "Deluxe Rooms",
-    "price": 3400,
-    "or_price": 3500,
-    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/14100026671_executive-room.jpg",
-    "link": "https://staging.verviant.com/kahama/accomodation.html#/room-details?rid=301&pid=MTQ%3D"
+    "room": "Executive Suites",
+    "price": 30000,
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15859969327_honey.jpg",
+    "link": ""
   },
   {
-    "room": "Superior Room",
-    "price": 2900,
-    "or_price": 3000,
-    "image": "https://www.reserveport.com/images/images.php?src=components/com_goreserva_pregistrations/pimages/roomtypeimgs/14100026671_executive-room.jpg&w=300&h=324&q=100",
-    "link": "https://staging.verviant.com/kahama/accomodation.html#/room-details?rid=302&pid=MTQ%3D"
+    "room": "Junior suites",
+    "price": 25000,
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15859971241_weston_3_(12).jpg",
+    "link": ""
   },
   {
-    "room": "Twin Room",
-    "price": 3900,
-    "or_price": 4000,
-    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/14100027441_twin-room.jpg",
+    "room": "Presidential suite",
+    "price": 2300000,
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15859972941_mum_weston_-30.jpg",
     "link": "hhttps://staging.verviant.com/kahama/accomodation.html#/room-details?rid=303&pid=MTQ%3D"
   },
   {
-    "room": "Triple Room",
-    "price": 4400,
-    "or_price": 4500,
-    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/14100027821_triple.jpg",
-    "link": "https://staging.verviant.com/kahama/accomodation.html#/room-details?rid=304&pid=MTQ%3D"
+    "room": "Superior king",
+    "price": 10000,
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16009299541_10661819_1447116915577913_8533209515328221814_o.jpg",
+    "link": ""
   }
 ]
