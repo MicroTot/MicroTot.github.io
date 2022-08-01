@@ -1,14 +1,14 @@
 [{
-	"title": "My restaurant can book hotels",
-	"description": "This is the description",
+	"title": "Reserveport for Hotels",
+	"description": "An easy-to-use Central Reservations System for all types of accommodation, Flight and Activity providers. Our objective is to offer a simple online solution, which enables reservations online, and at the same time, simplifies daily administration. ",
 	"og_type": "website",
-	"og_url": "https://metatags.io/",
-	"og_title": "my hotel",
-	"og_description": "Book now plzz",
+	"og_url": "https://www.reserveport.com/",
+	"og_title": "Reserveport for Hotels",
+	"og_description": "Reserveport - Kenya, Uganda, Tanzania - ReservePort",
 	"og_image": "Book now plzz",
-	"tw_card": "",
-	"tw_url": "",
-	"tw_title": "",
-	"tw_description": "",
-	"tw_image": ""
+	"tw_card": "https://www.reserveport.com/media/k2/items/cache/71f67488b0857639cee631943a3fc6fa_XL.jpg",
+	"tw_url": "Reserveport for Hotels",
+	"tw_title": "Reserveport for Hotels",
+	"tw_description": "Reserveport - Kenya, Uganda, Tanzania - ReservePort",
+	"tw_image": "https://www.reserveport.com/media/k2/items/cache/71f67488b0857639cee631943a3fc6fa_XL.jpg"
 }]
