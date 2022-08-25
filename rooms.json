@@ -2,31 +2,31 @@
   {
     "room": "Superior twin rooms",
     "price": 10000,
-    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15859967702_weston-hotel-kenya-48.jpg",
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16486308501_sarova_whitesands_-_premier_sea_facing_room_1.jpg",
     "link": "https://reserveport.netlify.app/search#/room-details?rid=3438&pid=MTA1MQ%3D%3D"
   },
   {
     "room": "Executive Suites",
     "price": 30000,
-    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15859969327_honey.jpg",
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16486308201_sarova_whitesands_-_premier_sea_facing_room_6.jpg",
     "link": "https://reserveport.netlify.app/search#/room-details?rid=3439&pid=MTA1MQ%3D%3D"
   },
   {
     "room": "Junior suites",
     "price": 25000,
-    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15859971241_weston_3_(12).jpg",
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16323788631_sarova_whitesands_-_sea_facing_room_1.jpg",
     "link": "https://reserveport.netlify.app/search#/room-details?rid=3440&pid=MTA1MQ%3D%3D"
   },
   {
     "room": "Presidential suite",
     "price": 230000,
-    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15859972941_mum_weston_-30.jpg",
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/15839290361_sarova_whitesands_-_pool_facing_1.jpg",
     "link": "https://reserveport.netlify.app/search#/room-details?rid=3441&pid=MTA1MQ%3D%3D"
   },
   {
     "room": "Superior king",
     "price": 10000,
-    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16009299541_10661819_1447116915577913_8533209515328221814_o.jpg",
+    "image": "https://www.reserveport.com/components/com_goreserva_pregistrations/pimages/roomtypeimgs/16486305833_sarova_whitesands_-_garden_facing_twin_6.jpg,
     "link": "https://reserveport.netlify.app/search#/room-details?rid=3657&pid=MTA1MQ%3D%3D"
   }
 ]
